@@ -22,3 +22,4 @@ A continuación te indicamos lo que vas aprender el proyecto ecommerce (mejorado
 
 Precio del curso (sólo backend): $ 120,00 (Dólares Americanos)
 - Más información: elargor@gmail.com
+Nota: Este proyecto es una versión mejorada del Curso spring ecommerce básico: https://github.com/elivarl/spring-ecommerce
