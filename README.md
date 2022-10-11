@@ -19,4 +19,4 @@ Proyecto backend ecommerce (mejorado) aplicando:
 - Deployment en Digital Ocean
 
 Precio del curso (sólo backend): $ 80,00 (Dólares Americanos)
-Más información: elargor@gmail.com
+- Más información: elargor@gmail.com
