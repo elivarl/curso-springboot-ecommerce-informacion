@@ -16,5 +16,5 @@ Proyecto backend ecommerce (mejorado) aplicando:
 - Manejo de Excepciones
 - Deployment en Digital Ocean
 
-Precio del curso (sólo backend): $ 50,00 (Dólares)
+Precio del curso (sólo backend): $ 50,00 (Dólares Americanos)
 Más información: elargor@gmail.com
