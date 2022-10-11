@@ -1,11 +1,13 @@
-# springboot-ecommerce-course-detail
+# Información curso Aprende a desarrollar un sitio ecommerce con Spring Boot
 
-Información curso Aprende a desarrollar un sitio ecommerce con Spring Boot
 
-Aprende a desarrollar un sitio eCommerce con Spring Boot y Java 11 desde cero, en esta aplicación de ejemplo entenderás desde un nivel básico a avanzado el desarrollo de aplicaciones Java con Spring Boot, además revisaremos los principios de código limpio y principios SOLID de tal manera que nuestro código sea escalable y mantenible a futuro.
+Aprende a desarrollar un sitio eCommerce con Spring Boot y Java 11 desde cero, en esta aplicación de ejemplo entenderás desde un nivel básico a avanzado el desarrollo de aplicaciones Java con Spring Boot desde la creación hasta el despliegue todo paso a paso, además aplicaremos los principios de código limpio y principios SOLID de tal manera que nuestro código sea escalable y mantenible a futuro.
 
-Proyecto backend ecommerce (mejorado) aplicando:
+Este curso te permitirá aprender las tecnologías y obtener las habilidades necesarias para iniciarte como programador Java Backend con Spring Boot con lo que tendrás más oportunidades para poderte insertar en el mundo laboral.
 
+Al final del curso tendrás un proyecto en github que será tu carta de presentación a tus futuras contrataciones.
+
+A continuación te indicamos lo que vas aprender el proyecto ecommerce (mejorado) aplicando:
 - Arquitectura hexagonal
 - Principios de código limpio (Clean Code)
 - Principios SOLID
