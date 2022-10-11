@@ -7,6 +7,8 @@ Aprende a desarrollar un sitio eCommerce con Spring Boot y Java 11 desde cero, e
 Proyecto backend ecommerce (mejorado) aplicando:
 
 - Arquitectura hexagonal
+- Principios de código limpio (Clean Code)
+- Principios SOLID
 - Spring Framework
 - Spring Boot
 - Servicios REST
@@ -16,5 +18,5 @@ Proyecto backend ecommerce (mejorado) aplicando:
 - Manejo de Excepciones
 - Deployment en Digital Ocean
 
-Precio del curso (sólo backend): $ 50,00 (Dólares Americanos)
+Precio del curso (sólo backend): $ 80,00 (Dólares Americanos)
 Más información: elargor@gmail.com
