@@ -18,9 +18,11 @@ A continuación te indicamos lo que vas aprender el proyecto ecommerce (mejorado
 - Persistencia usando PostgreSQL
 - Spring Security
 - Manejo de Excepciones
-- Integración con el API de Paypal para realizar los pagos
+- Integración con el API de Paypal para realizar pagos
+- Consumir una API REST con Angular
 - Deployment en Digital Ocean
 
-Precio del curso (sólo backend): $ 75,00 (Dólares Americanos)
+Precio del curso: $ 275,00 (Dólares Americanos)
 - Más información: elargor@gmail.com
 - Nota: Este proyecto es una versión mejorada del Curso spring ecommerce básico: https://github.com/elivarl/spring-ecommerce
+- Y del curso "Proyecto Ecommerce con Spring Boot y Arquitectura Hexagonal" que actualmente se encuentra en UDEMY: https://www.udemy.com/user/elivar-largo/
